@@ -1,3 +1,3 @@
 # Sudoku_digits_ocr
 
-This folder contains the Sudoku digits recognition program
+This repository contains the Sudoku digits recognition program
