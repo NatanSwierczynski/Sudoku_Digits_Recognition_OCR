@@ -24,11 +24,12 @@ Schemat działania programu:
 - Naniesienie rozpoznanych cyfr na planszę ze zdjęcia
 
 Przyklad dzialania aplikacji:
-
 Dane wejsciowe:
+
 ![image](https://github.com/NatanSwierczynski/Sudoku_Digits_Recognition_OCR/assets/106707211/5c7f3e8f-1fb6-4bd0-9154-fc1c382a7d45)
 
 Wyjscie aplikacji:
+
 ![image](https://github.com/NatanSwierczynski/Sudoku_Digits_Recognition_OCR/assets/106707211/19ce3eaa-01f8-4adf-b437-2c872d636c4c)
 
 
